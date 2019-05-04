@@ -1,6 +1,6 @@
 # Head Hunter - the game
 This is a game of a headless stickman figure collecting heads raining down from sky. The control involves keyboard direction keys as well as "a" and "d" key. Special thanks to Zeke Bogusky for providing the codes of walking for me, it was hard for me to figure it out. Michael Toren Daniel Shiffman's video tutorials helped a lot on the Sound part of this game.
-link
+- link to the game on P5.js: https://editor.p5js.org/jli8/sketches/qZO_JwCXA
 
 ## Summary
 In this Head Hunter game the player would control the movement of the stickman with the left arrow key and the right arrow key, and change the length of the neck of the stickman with the up arrow key and down arrow key. The "a" and "d" keys are available, for changing the direction of the neck (the neck can tur 90 degrees).
