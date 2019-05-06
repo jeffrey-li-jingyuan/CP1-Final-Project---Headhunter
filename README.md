@@ -1,5 +1,5 @@
 # Head Hunter - the game
-https://github.com/jeffrey-li-jingyuan/CP1-Final-Project---Headhunter/blob/master/Headhunter-image
+![alt text] https://raw.githubusercontent.com/jeffrey-li-jingyuan/CP1-Final-Project---Headhunter/master/Headhunter-image.jpg
 This is a game of a headless stickman figure collecting heads raining down from sky. The control involves keyboard direction keys as well as "a" and "d" key. Special thanks to Zeke Bogusky for providing the codes of walking for me, it was hard for me to figure it out. Michael Toren Daniel Shiffman's video tutorials helped a lot on the Sound part of this game.
 - link to the game on P5.js: https://editor.p5js.org/jli8/present/qZO_JwCXA
 
